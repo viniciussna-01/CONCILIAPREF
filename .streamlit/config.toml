@@ -1,13 +1,6 @@
-[client]
-showErrorDetails = true
-maxUploadSize = 200
-
-[logger]
-level = "info"
+[server]
+maxUploadSize = 400
 
 [theme]
 primaryColor = "#007bff"
-backgroundColor = "#ffffff"
-secondaryBackgroundColor = "#f8f9fa"
-textColor = "#333333"
 font = "sans serif"
